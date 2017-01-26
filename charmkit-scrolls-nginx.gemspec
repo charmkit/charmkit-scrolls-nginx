@@ -3,8 +3,8 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = "charmkit-scroll-nginx"
-  spec.version       = "0.2.0"
+  spec.name          = "charmkit-scrolls-nginx"
+  spec.version       = "1.0.0"
   spec.authors       = ["Adam Stokes"]
   spec.email         = ["battlemidget@users.noreply.github.com"]
 
