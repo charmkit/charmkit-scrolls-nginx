@@ -19,7 +19,7 @@ __END__
 
 @@ php.vhost.conf
 
-suitable nginx host configuration for a php application
+suitable nginx host configuration for a php applications
 
 @@ nodejs.vhost.conf
 
